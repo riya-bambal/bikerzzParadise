@@ -1,0 +1,7 @@
+.signup_background{
+    background:linear-gradient(lavender,bisque);
+    background-size: cover;
+    height: 92vh;
+    width: 100%;
+    background-repeat: no-repeat;
+}

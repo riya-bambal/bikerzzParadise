@@ -1,0 +1,8 @@
+.login_background{
+    background-color: bisque;
+    background: linear-gradient(bisque,lavender);
+    background-size: cover;
+    height: 92vh;
+    width:100%;
+    
+}
