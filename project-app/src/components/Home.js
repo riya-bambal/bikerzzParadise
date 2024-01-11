@@ -1,5 +1,5 @@
 import { Carousel, Image } from "react-bootstrap";
-import Footer from "./Footer";
+
 
 const Home = () => {
   return (
@@ -29,7 +29,7 @@ const Home = () => {
           </Carousel.Caption>
         </Carousel.Item>
       </Carousel>
-      <Footer/>
+      
     </>
   )
 }
